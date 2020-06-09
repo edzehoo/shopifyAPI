@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Shopify_API_Key" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">a275b802aa1aadfd492bf2ae66a9c040</Value>
+    </Setting>
+    <Setting Name="Shopify_Secret_Key" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">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</Value>
+    </Setting>
+    <Setting Name="Shopify_Store_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://msread.myshopify.com/</Value>
+    </Setting>
+    <Setting Name="Shopify_App_DB_Conn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=wannatalkghl.cys7xzxa94iq.ap-southeast-1.rds.amazonaws.com,1433;Initial Catalog=lechurntest;Persist Security Info=False;User ID=admin;Password=Sophie383838</Value>
+    </Setting>
+    <Setting Name="Shopify_API_Rate_Limit_Header" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">X-Shopify-Shop-Api-Call-Limit</Value>
+    </Setting>
+    <Setting Name="Shopify_API_Rate_Limit_Retry_Header" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Retry-After</Value>
+    </Setting>
+    <Setting Name="Shopify_API_Call_Limit" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">40/40</Value>
+    </Setting>
+    <Setting Name="Shopify_API_Dummy_CustomerID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3288974491757</Value>
+    </Setting>
+    <Setting Name="Shopify_API_Key_Public_" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">92eb4c96c2882b6f2dacf25073d56a07</Value>
+    </Setting>
+    <Setting Name="Shopify_Secret_Key_Public" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">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</Value>
+    </Setting>
+    <Setting Name="Shopify_Store_URL_Public" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://test-store-113344432.myshopify.com/</Value>
+    </Setting>
+    <Setting Name="Shopify_App_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.teamjello.com/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
